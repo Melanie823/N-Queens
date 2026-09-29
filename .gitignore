@@ -1,0 +1,7 @@
+# 只上傳 n_queen 專案與簡報
+hm2/
+.vs/
+x64/
+Debug/
+Release/
+*.user

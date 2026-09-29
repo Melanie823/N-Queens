@@ -1,0 +1,3 @@
+# 原始碼在本機為 Big5 (VS 預設)，存入 git 時轉成 UTF-8 讓 GitHub 正常顯示中文
+*.cpp working-tree-encoding=CP950 eol=crlf
+*.pptx binary
